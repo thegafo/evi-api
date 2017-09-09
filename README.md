@@ -1,7 +1,7 @@
 
 # Evi API
 
-Simple helper that interfaces with the (Evi)[https://www.evi.com] question answering service.
+Simple helper that interfaces with the [Evi](https://www.evi.com) question answering service.
 
 ### Usage
 
