@@ -1,8 +1,12 @@
 {
   "name": "evi-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple helper that interfaces with the Evi.com question answering service.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gafopi/evi-api.git"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.81.0",
